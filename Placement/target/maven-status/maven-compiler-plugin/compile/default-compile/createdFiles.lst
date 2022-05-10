@@ -1,0 +1,13 @@
+com/example/Placement/service/ShippingService.class
+com/example/Placement/repositories/ShippingRepo.class
+com/example/Placement/model/Shipping.class
+com/example/Placement/model/Customer.class
+com/example/Placement/repositories/PurchaseRepo.class
+com/example/Placement/controller/ShippingController.class
+com/example/Placement/service/PurchaseService.class
+com/example/Placement/service/CustomerService.class
+com/example/Placement/controller/CustomerController.class
+com/example/Placement/PlacementApplication.class
+com/example/Placement/model/Purchase.class
+com/example/Placement/controller/PurchaseController.class
+com/example/Placement/repositories/CustomerRepo.class

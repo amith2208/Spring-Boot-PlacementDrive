@@ -1,0 +1,13 @@
+/home/amith/Placement/src/main/java/com/example/Placement/controller/CustomerController.java
+/home/amith/Placement/src/main/java/com/example/Placement/repositories/ShippingRepo.java
+/home/amith/Placement/src/main/java/com/example/Placement/service/CustomerService.java
+/home/amith/Placement/src/main/java/com/example/Placement/model/Shipping.java
+/home/amith/Placement/src/main/java/com/example/Placement/repositories/CustomerRepo.java
+/home/amith/Placement/src/main/java/com/example/Placement/model/Purchase.java
+/home/amith/Placement/src/main/java/com/example/Placement/model/Customer.java
+/home/amith/Placement/src/main/java/com/example/Placement/service/ShippingService.java
+/home/amith/Placement/src/main/java/com/example/Placement/service/PurchaseService.java
+/home/amith/Placement/src/main/java/com/example/Placement/repositories/PurchaseRepo.java
+/home/amith/Placement/src/main/java/com/example/Placement/PlacementApplication.java
+/home/amith/Placement/src/main/java/com/example/Placement/controller/ShippingController.java
+/home/amith/Placement/src/main/java/com/example/Placement/controller/PurchaseController.java
